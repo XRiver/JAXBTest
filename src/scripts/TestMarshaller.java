@@ -1,4 +1,4 @@
-package example;
+package scripts;
 
 import cn.edu.nju.schema.ObjectFactory;
 import cn.edu.nju.schema.部门类型;

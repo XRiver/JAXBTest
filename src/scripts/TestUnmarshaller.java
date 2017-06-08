@@ -1,4 +1,4 @@
-package example;
+package scripts;
 
 import cn.edu.nju.jw.schema.ObjectFactory;
 import cn.edu.nju.jw.schema.学生结构;

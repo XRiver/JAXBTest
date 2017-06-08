@@ -1,4 +1,4 @@
-package example;
+package scripts;
 
 import cn.edu.nju.jw.schema.*;
 

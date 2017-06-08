@@ -1,6 +1,5 @@
-package example;
+package scripts;
 
-import cn.edu.nju.jw.schema.学生列表结构;
 import cn.edu.nju.jw.schema.成绩类型;
 import cn.edu.nju.jw.schema.课程成绩列表类型;
 import cn.edu.nju.jw.schema.课程成绩类型;
