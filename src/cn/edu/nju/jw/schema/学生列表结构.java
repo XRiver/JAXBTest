@@ -54,7 +54,7 @@ public class 学生列表结构 {
      * This is why there is not a <CODE>set</CODE> method for the 学生 property.
      * 
      * <p>
-     * For example, to add a new item, do as follows:
+     * For scripts, to add a new item, do as follows:
      * <pre>
      *    get学生().add(newItem);
      * </pre>

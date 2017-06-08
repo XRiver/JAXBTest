@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 
 
@@ -34,6 +35,7 @@ import javax.xml.bind.annotation.XmlType;
  * 
  * 
  */
+@XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "\u8bfe\u7a0b\u6210\u7ee9\u5217\u8868\u7c7b\u578b", propOrder = {
     "\u8bfe\u7a0b\u6210\u7ee9"
@@ -52,7 +54,7 @@ public class 课程成绩列表类型 {
      * This is why there is not a <CODE>set</CODE> method for the 课程成绩 property.
      * 
      * <p>
-     * For example, to add a new item, do as follows:
+     * For scripts, to add a new item, do as follows:
      * <pre>
      *    get课程成绩().add(newItem);
      * </pre>

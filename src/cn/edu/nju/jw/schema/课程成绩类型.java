@@ -59,7 +59,7 @@ public class 课程成绩类型 {
      * This is why there is not a <CODE>set</CODE> method for the 成绩 property.
      * 
      * <p>
-     * For example, to add a new item, do as follows:
+     * For scripts, to add a new item, do as follows:
      * <pre>
      *    get成绩().add(newItem);
      * </pre>

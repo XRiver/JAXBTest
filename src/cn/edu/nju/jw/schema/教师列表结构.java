@@ -54,7 +54,7 @@ public class 教师列表结构 {
      * This is why there is not a <CODE>set</CODE> method for the 教师 property.
      * 
      * <p>
-     * For example, to add a new item, do as follows:
+     * For scripts, to add a new item, do as follows:
      * <pre>
      *    get教师().add(newItem);
      * </pre>

@@ -8,11 +8,7 @@
 
 package cn.edu.nju.jw.schema;
 
-import javax.xml.bind.annotation.XmlAccessType;
-import javax.xml.bind.annotation.XmlAccessorType;
-import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlSchemaType;
-import javax.xml.bind.annotation.XmlType;
+import javax.xml.bind.annotation.*;
 import javax.xml.datatype.XMLGregorianCalendar;
 import cn.edu.nju.schema.个人信息结构;
 
@@ -47,6 +43,7 @@ import cn.edu.nju.schema.个人信息结构;
  * 
  * 
  */
+@XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "\u5b66\u751f\u7ed3\u6784", propOrder = {
     "\u4e2a\u4eba\u4fe1\u606f",

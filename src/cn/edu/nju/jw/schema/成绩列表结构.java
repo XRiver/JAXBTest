@@ -52,7 +52,7 @@ public class 成绩列表结构 {
      * This is why there is not a <CODE>set</CODE> method for the 单科成绩 property.
      * 
      * <p>
-     * For example, to add a new item, do as follows:
+     * For scripts, to add a new item, do as follows:
      * <pre>
      *    get单科成绩().add(newItem);
      * </pre>
